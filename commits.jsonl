@@ -1,0 +1,9 @@
+{"proposal_id": "prop_1780857819588", "agent_id": "plannerclaw", "status": "COMMITTED", "reason": "valid", "timestamp": 1780857819.5898905}
+{"proposal_id": "prop_1780857926697", "agent_id": "safetyclaw", "status": "COMMITTED", "reason": "valid", "timestamp": 1780857926.6985018}
+{"proposal_id": "prop_1780857985678", "agent_id": "executorclaw", "status": "COMMITTED", "reason": "valid", "timestamp": 1780857985.6796846}
+{"proposal_id": "prop_1780858051724", "agent_id": "executorclaw", "status": "REJECTED", "reason": "same agent cannot commit twice consecutively", "timestamp": 1780858051.7245238}
+{"proposal_id": "prop_1780859648864", "agent_id": "plannerclaw", "status": "REJECTED", "reason": "duplicate content", "timestamp": 1780859648.8655436}
+{"proposal_id": "prop_1780859761087", "agent_id": "plannerclaw", "status": "COMMITTED", "reason": "valid", "timestamp": 1780859761.0883007}
+{"proposal_id": "prop_1780859819251", "agent_id": "safetyclaw", "status": "COMMITTED", "reason": "valid", "timestamp": 1780859819.2522047}
+{"proposal_id": "prop_1780860040638", "agent_id": "executorclaw", "status": "COMMITTED", "reason": "valid", "timestamp": 1780860040.639422}
+{"proposal_id": "prop_1780860717714", "agent_id": "plannerclaw", "status": "REJECTED", "reason": "only APPEND allowed", "timestamp": 1780860717.7145636}
